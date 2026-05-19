@@ -223,8 +223,8 @@ MonoBehaviour:
   selfTransform: {fileID: 152358696}
   canonTransform: {fileID: 499542811}
   targetTransform: {fileID: 1306821013}
-  detectionInnerRadius: 2.16
-  detectionOuterRadius: 4.68
+  detectionInnerRadius: 1.68
+  detectionOuterRadius: 4.25
   turnSpeed: 5
 --- !u!1 &499542810
 GameObject:
